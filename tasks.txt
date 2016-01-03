@@ -1,0 +1,4 @@
+Tasks:
+1. Finish the function of scanning the progrems
+2. Start the profile builder whole functuon
+3. Decide how to determine profile 
